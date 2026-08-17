@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Ahmed%20Sajid%20Butt&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SOC%20Analyst%20L1%20%7C%20Detection%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://git.io/typing-svg">
+<a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&pause=1000&color=5EB4E7&center=true&vCenter=true&width=650&lines=Investigating+incidents+%E2%80%94+one+alert+at+a+time;Threat+hunting+with+KQL+and+Wazuh;Detection+Engineer%3A+Wazuh+%2B+MITRE+ATT%26CK+%2B+TheHive;Building+detection+content+from+the+ground+up" alt="Typing SVG" />
 </a>
 
@@ -10,13 +10,13 @@
 
 <br>
 
-I investigate incidents, hunt for what alerts miss, and build detection content from the ground up — based in Lahore, Pakistan.
+I investigate incidents, hunt for what alerts miss, and build detection content from the ground up. Based in Lahore, Pakistan.
 
 - 🔭 Currently building detection labs across **Wazuh, Microsoft Defender XDR, and the ELK Stack**
-- 🧪 Recent work: **[Vigil](https://github.com/CyberAhmedX/Vigil)** — a SOC detection lab simulating a four‑stage web app compromise with a working Wazuh‑to‑TheHive escalation workflow, mapped to MITRE ATT&CK
-- 🎓 Completed a hands‑on cybersecurity internship — real incident investigation, KQL threat hunting, and endpoint onboarding to Microsoft Defender for Endpoint
-- 📄 Co‑authored an IEEE‑published paper on AI‑based intrusion detection (see [Research](#-research) below)
-- 🌐 Full portfolio: **[cyberahmedx.github.io](https://cyberahmedx.github.io)**
+- 🧪 Recent work: <a href="https://github.com/CyberAhmedX/Vigil" target="_blank" rel="noopener noreferrer"><strong>Vigil</strong></a>, a SOC detection lab simulating a four-stage web app compromise with a working Wazuh-to-TheHive escalation workflow, mapped to MITRE ATT&CK
+- 🎓 Completed a hands-on cybersecurity internship: real incident investigation, KQL threat hunting, and endpoint onboarding to Microsoft Defender for Endpoint
+- 📄 Co-authored an IEEE-published paper on AI-based intrusion detection (see [Research](#-research) below)
+- 🌐 Full portfolio: <a href="https://cyberahmedx.github.io" target="_blank" rel="noopener noreferrer"><strong>cyberahmedx.github.io</strong></a>
 
 <br>
 
@@ -44,8 +44,6 @@ I investigate incidents, hunt for what alerts miss, and build detection content 
 **Scripting & Query**
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![KQL](https://img.shields.io/badge/KQL-00A4EF?style=flat-square&logo=microsoftazure&logoColor=white)
 
 <br>
@@ -54,26 +52,26 @@ I investigate incidents, hunt for what alerts miss, and build detection content 
 
 | Project | Description |
 |---|---|
-| 🔎 **[Vigil](https://github.com/CyberAhmedX/Vigil)** | SOC detection lab — Wazuh, TheHive, OpenSearch, Docker. Four‑stage attack simulation (SQLi, XSS, IDOR, simulated ransomware) mapped to MITRE ATT&CK, with a working Wazuh‑to‑TheHive escalation workflow |
-| 🛡️ **[Sentinel‑Forge](https://github.com/CyberAhmedX/Sentinel-Forge)** | ELK‑based SOC home lab with custom Kibana detection rules and Mythic C2 adversary simulation |
-| 🔒 **[Network Security Scanner](https://github.com/CyberAhmedX/Network-Security-Scanner-with-Firewall-Rule-Simulator)** | Real‑time scanner and firewall rule simulator (Flask + Nmap) with real OS‑level firewall enforcement via netsh/iptables |
+| 🔎 <a href="https://github.com/CyberAhmedX/Vigil" target="_blank" rel="noopener noreferrer"><strong>Vigil</strong></a> | SOC detection lab: Wazuh, TheHive, OpenSearch, Docker. Four-stage attack simulation (SQLi, XSS, IDOR, simulated ransomware) mapped to MITRE ATT&CK, with a working Wazuh-to-TheHive escalation workflow |
+| 🛡️ <a href="https://github.com/CyberAhmedX/Sentinel-Forge" target="_blank" rel="noopener noreferrer"><strong>Sentinel-Forge</strong></a> | ELK-based SOC home lab with custom Kibana detection rules and Mythic C2 adversary simulation |
+| 🔒 <a href="https://github.com/CyberAhmedX/Network-Security-Scanner-with-Firewall-Rule-Simulator" target="_blank" rel="noopener noreferrer"><strong>Network Security Scanner</strong></a> | Real-time scanner and firewall rule simulator (Flask + Nmap) with real OS-level firewall enforcement via netsh/iptables |
 
 <br>
 
 ## 📄 Research
 
-**Leveraging AI for Real‑Time Intrusion Detection in IoT‑Enabled Healthcare Systems**
-Federated learning‑based IDS using CNN, BiLSTM, and GRU models — 99.8% accuracy. Presented at DataSciMI 2026, Bahria University.
-📎 [Read on IEEE Xplore](https://ieeexplore.ieee.org/document/11523932)
+**Leveraging AI for Real-Time Intrusion Detection in IoT-Enabled Healthcare Systems**
+Federated learning-based IDS using CNN, BiLSTM, and GRU models, 99.8% accuracy. Presented at DataSciMI 2026, Bahria University.
+📎 <a href="https://ieeexplore.ieee.org/document/11523932" target="_blank" rel="noopener noreferrer">Read on IEEE Xplore</a>
 
 <br>
 
 ## 🎓 Certifications
 
-- **KC7** — Security Analyst I & II
-- **ISO 27001:2022 Associate** — SkillFront
-- **Google Cybersecurity Professional Certificate** — Coursera
-- **TryHackMe** — Pre Security, Security 101
+- **KC7**: Security Analyst I & II
+- **ISO 27001:2022 Associate**, SkillFront
+- **Google Cybersecurity Professional Certificate**, Coursera
+- **TryHackMe**: Pre Security, Security 101
 
 <br>
 
@@ -89,9 +87,9 @@ Federated learning‑based IDS using CNN, BiLSTM, and GRU models — 99.8% accur
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/a-sajid)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cyberahmedx.github.io)
-[![Email](https://img.shields.io/badge/Email-2c5364?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ahmedsajid_bw@proton.me)
+<a href="https://linkedin.com/in/a-sajid" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://cyberahmedx.github.io" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:ahmedsajid_bw@proton.me" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-2c5364?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/></a>
 
 <sub>Always happy to talk detection engineering, threat hunting, or SOC ops.</sub>
 
