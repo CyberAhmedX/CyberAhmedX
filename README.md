@@ -29,10 +29,3 @@
 |---|---|
 | 🔎 [**Vigil**](https://github.com/CyberAhmedX/Vigil) | SOC detection lab: Wazuh, TheHive, OpenSearch, Docker, four-stage attack simulation mapped to MITRE ATT&CK |
 | 🛡️ [**Sentinel-Forge**](https://github.com/CyberAhmedX/Sentinel-Forge) | ELK-based SOC home lab with custom Kibana detection rules and Mythic C2 adversary simulation |
-
----
-
-### 📊 GitHub Stats
-
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberAhmedX&show_icons=true&theme=github_dark&hide_border=true)
-
