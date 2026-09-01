@@ -8,6 +8,12 @@
 
 </div>
 
+<div align="center">
+
+![Open to Opportunities](https://img.shields.io/badge/Open%20to%20Opportunities-4FBE8A?style=flat-square) ![Location](https://img.shields.io/badge/Lahore%2C%20Pakistan-5EB4E7?style=flat-square)
+
+</div>
+
 <br>
 
 I investigate incidents, hunt for what alerts miss, and build detection content from the ground up. Based in Lahore, Pakistan.
@@ -54,7 +60,8 @@ I investigate incidents, hunt for what alerts miss, and build detection content 
 |---|---|
 | 🔎 <a href="https://github.com/CyberAhmedX/Vigil" target="_blank" rel="noopener noreferrer"><strong>Vigil</strong></a> | SOC detection lab: Wazuh, TheHive, OpenSearch, Docker. Four-stage attack simulation (SQLi, XSS, IDOR, simulated ransomware) mapped to MITRE ATT&CK, with a working Wazuh-to-TheHive escalation workflow |
 | 🛡️ <a href="https://github.com/CyberAhmedX/Sentinel-Forge" target="_blank" rel="noopener noreferrer"><strong>Sentinel-Forge</strong></a> | ELK-based SOC home lab with custom Kibana detection rules and Mythic C2 adversary simulation |
-| 🔒 <a href="https://github.com/CyberAhmedX/Network-Security-Scanner-with-Firewall-Rule-Simulator" target="_blank" rel="noopener noreferrer"><strong>Network Security Scanner</strong></a> | Real-time scanner and firewall rule simulator (Flask + Nmap) with real OS-level firewall enforcement via netsh/iptables |
+| 🔒 <a href="https://github.com/CyberAhmedX/Network-Security-Scanner-with-Firewall-Rule-Simulator" target="_blank" rel="noopener noreferrer"><strong>Network Security Scanner</strong></a> | Real-time scanner and firewall rule simulator (Flask + Nmap). Deny rules execute a real netsh/iptables command scoped to that specific IP+port pair |
+| 🔐 <a href="https://github.com/CyberAhmedX/CipherVault" target="_blank" rel="noopener noreferrer"><strong>CipherVault</strong></a> | Browser-based encryption tool (vanilla JS + Web Crypto API): Caesar, Vigenère, Base64, RSA-2048, SHA-256. Found and patched a stored XSS vulnerability during self-review |
 
 <br>
 
