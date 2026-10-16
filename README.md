@@ -1,25 +1,30 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-  <img src="assets/banner-light.png" alt="Ahmed Sajid Butt, SOC Analyst L1 / Detection Engineer. I hunt for what alerts miss." width="100%">
-</picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg"><img src="assets/banner-light.svg" width="100%" alt="Ahmed Sajid Butt - SOC Analyst L1 / Detection Engineer. I hunt for what alerts miss. Open to work."></picture>
 
 I investigate incidents, hunt for what alerts miss, and build detection content from the ground up across Microsoft Defender XDR, Wazuh and the ELK Stack. Computer Science graduate (2025) with a completed SOC internship, open to SOC roles, remote or in Pakistan.
 
-**[Portfolio](https://cyberahmedx.github.io)** · **[LinkedIn](https://linkedin.com/in/a-sajid)** · **[Email](mailto:ahmedsajid_bw@proton.me)** · **[Resume](https://cyberahmedx.github.io/assets/Ahmed_Sajid_Butt_Resume.pdf)**
+<p>
+<a href="https://cyberahmedx.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-portfolio-dark.svg"><img src="assets/btn-portfolio-light.svg" height="36" alt="Portfolio"></picture></a>
+<a href="https://linkedin.com/in/a-sajid"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg"><img src="assets/btn-linkedin-light.svg" height="36" alt="LinkedIn"></picture></a>
+<a href="mailto:ahmedsajid_bw@proton.me"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg"><img src="assets/btn-email-light.svg" height="36" alt="Email"></picture></a>
+<a href="https://cyberahmedx.github.io/assets/Ahmed_Sajid_Butt_Resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-resume-dark.svg"><img src="assets/btn-resume-light.svg" height="36" alt="Resume"></picture></a>
+</p>
 
 ## Featured work
 
-**[Vigil](https://github.com/CyberAhmedX/Vigil)** - SOC detection lab and incident response<br>
-Wazuh, TheHive and OpenSearch behind an Nginx reverse proxy. A four-stage web app compromise (SQL injection, XSS, IDOR, simulated ransomware), each stage detected in Wazuh, escalated to TheHive automatically and closed with a written verdict. Mapped to MITRE ATT&CK.
+<p align="center">
+<a href="https://github.com/CyberAhmedX/Vigil"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-vigil-dark.svg"><img src="assets/card-vigil-light.svg" width="49%" alt="Vigil: SOC detection lab and incident response. Wazuh, TheHive and OpenSearch. A four-stage web app compromise (SQL injection, XSS, IDOR, simulated ransomware), each stage detected, escalated and closed with a written verdict."></picture></a>
+<a href="https://github.com/CyberAhmedX/Sentinel-Forge"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-sentinel-forge-dark.svg"><img src="assets/card-sentinel-forge-light.svg" width="49%" alt="Sentinel-Forge: cloud SOC lab on Vultr. Sysmon telemetry into the ELK Stack, custom Kibana detection rules, Mythic C2 adversary simulation and a ticket on every alert."></picture></a>
+<a href="https://github.com/CyberAhmedX/Network-Security-Scanner-with-Firewall-Rule-Simulator"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-netscan-dark.svg"><img src="assets/card-netscan-light.svg" width="49%" alt="Network Security Scanner: Flask and Nmap. Rules run real iptables or netsh commands, and new open ports raise SIEM alerts in Wazuh, tested on Wazuh 4.14.9."></picture></a>
+<a href="https://github.com/CyberAhmedX/CipherVault"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-ciphervault-dark.svg"><img src="assets/card-ciphervault-light.svg" width="49%" alt="CipherVault: RSA-3072 + AES-256-GCM hybrid encryption and a passphrase-encrypted vault in the browser, tested in Chromium, Firefox and WebKit."></picture></a>
+</p>
 
-**[Sentinel-Forge](https://github.com/CyberAhmedX/Sentinel-Forge)** - Cloud SOC home lab<br>
-ELK Stack on Vultr with Sysmon endpoint telemetry, custom Kibana detection rules, adversary simulation with Mythic C2, and automatic ticket creation on alert.
+<sub>Each card opens its repo. CipherVault also runs in your browser: <a href="https://cyberahmedx.github.io/CipherVault/">try the live demo</a>.</sub>
 
-**[Network Security Scanner](https://github.com/CyberAhmedX/Network-Security-Scanner-with-Firewall-Rule-Simulator)** - Scanner with real firewall enforcement<br>
-Flask and Nmap with live WebSocket updates. With admin or root rights, rules run real iptables or netsh commands. Flags ports that opened since the last scan and writes SIEM-ready events in Elastic Common Schema, with custom Wazuh rules tested on Wazuh 4.14.9. Fixed a command injection found in self-review.
+## ATT&CK coverage
 
-**[CipherVault](https://github.com/CyberAhmedX/CipherVault)** - Browser encryption tool · [live demo](https://cyberahmedx.github.io/CipherVault/)<br>
-RSA-3072 + AES-256-GCM hybrid encryption and a passphrase-encrypted vault (PBKDF2, 600,000 iterations) on the Web Crypto API. Tested in Chromium, Firefox and WebKit, including a regression test for a stored XSS found and fixed in self-review.
+<img src="assets/attack-coverage.svg" width="100%" alt="MITRE ATT&amp;CK coverage by tactic. Detected in my labs: T1190, T1059.007, T1213, T1486. Detection rules written: T1110, T1562.001, T1057, T1071.001, T1041. Executed with Atomic Red Team: T1059.001.">
+
+<sub>Techniques I have worked hands-on across my labs and SOC internship. The interactive version, with the story behind each one, is on <a href="https://cyberahmedx.github.io/#attack">my portfolio</a>.</sub>
 
 ## Experience
 
