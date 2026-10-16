@@ -1,19 +1,21 @@
 ```yaml
 title: Ahmed Sajid Butt
-status: open to SOC roles        # remote or Lahore, Pakistan
-description: SOC Analyst L1 and detection engineer. Builds the lab, writes the rule, attacks the setup to prove it fires.
+status: open to SOC roles   # remote or Pakistan
+description: SOC Analyst L1, detection engineer
 tags:
   - detection.engineering
   - threat.hunting
   - incident.response
 logsource:
-  product: [defender_xdr, sentinel, wazuh, elastic]
+  product: [defender_xdr, sentinel, wazuh, elk]
 detection:
-  internship: CNS Engineering, SOC Research Intern, 2026
-  research: IEEE Xplore, federated IDS for IoT healthcare
+  internship: CNS Engineering, 2026
+  research: IEEE Xplore, federated IDS
   condition: internship and research
 level: high
 ```
+
+I build detection labs, write the rules, and attack my own setups to prove the alerts fire. Computer Science graduate (2025) with a completed SOC internship.
 
 [Portfolio](https://cyberahmedx.github.io) · [LinkedIn](https://linkedin.com/in/a-sajid) · [Email](mailto:ahmedsajid_bw@proton.me) · [Resume](https://cyberahmedx.github.io/assets/Ahmed_Sajid_Butt_Resume.pdf)
 
