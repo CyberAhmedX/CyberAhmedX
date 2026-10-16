@@ -1,6 +1,6 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg"><img src="assets/banner-light.svg" width="100%" alt="Ahmed Sajid Butt - SOC Analyst L1 / Detection Engineer. I hunt for what alerts miss. Open to work."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg"><img src="assets/banner-light.svg" width="100%" alt="Ahmed Sajid Butt - SOC Analyst L1 and Detection Engineer. Finding the signal in the noise. Open to SOC roles."></picture>
 
-I investigate incidents, hunt for what alerts miss, and build detection content from the ground up across Microsoft Defender XDR, Wazuh and the ELK Stack. Computer Science graduate (2025) with a completed SOC internship, open to SOC roles, remote or in Pakistan.
+I build SOC labs, write detection rules and attack my own setups to prove the alerts fire. This is where the code and the evidence live. Computer Science graduate (2025) with a completed SOC internship, open to SOC roles, remote or in Pakistan.
 
 <p>
 <a href="https://cyberahmedx.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-portfolio-dark.svg"><img src="assets/btn-portfolio-light.svg" height="36" alt="Portfolio"></picture></a>
@@ -13,18 +13,12 @@ I investigate incidents, hunt for what alerts miss, and build detection content 
 
 <p align="center">
 <a href="https://github.com/CyberAhmedX/Vigil"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-vigil-dark.svg"><img src="assets/card-vigil-light.svg" width="49%" alt="Vigil: SOC detection lab and incident response. Wazuh, TheHive and OpenSearch. A four-stage web app compromise (SQL injection, XSS, IDOR, simulated ransomware), each stage detected, escalated and closed with a written verdict."></picture></a>
-<a href="https://github.com/CyberAhmedX/Sentinel-Forge"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-sentinel-forge-dark.svg"><img src="assets/card-sentinel-forge-light.svg" width="49%" alt="Sentinel-Forge: cloud SOC lab on Vultr. Sysmon telemetry into the ELK Stack, custom Kibana detection rules, Mythic C2 adversary simulation and a ticket on every alert."></picture></a>
+<a href="https://github.com/CyberAhmedX/Sentinel-Forge"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-sentinel-forge-dark.svg"><img src="assets/card-sentinel-forge-light.svg" width="49%" alt="Sentinel-Forge: 30-day cloud SOC lab on Vultr. Sysmon telemetry into the ELK Stack, custom Kibana detection rules, Mythic C2 adversary simulation and a ticket on every alert."></picture></a>
 <a href="https://github.com/CyberAhmedX/Network-Security-Scanner-with-Firewall-Rule-Simulator"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-netscan-dark.svg"><img src="assets/card-netscan-light.svg" width="49%" alt="Network Security Scanner: Flask and Nmap. Rules run real iptables or netsh commands, and new open ports raise SIEM alerts in Wazuh, tested on Wazuh 4.14.9."></picture></a>
 <a href="https://github.com/CyberAhmedX/CipherVault"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-ciphervault-dark.svg"><img src="assets/card-ciphervault-light.svg" width="49%" alt="CipherVault: RSA-3072 + AES-256-GCM hybrid encryption and a passphrase-encrypted vault in the browser, tested in Chromium, Firefox and WebKit."></picture></a>
 </p>
 
-<sub>Each card opens its repo. CipherVault also runs in your browser: <a href="https://cyberahmedx.github.io/CipherVault/">try the live demo</a>.</sub>
-
-## ATT&CK coverage
-
-<img src="assets/attack-coverage.svg" width="100%" alt="MITRE ATT&amp;CK coverage by tactic. Detected in my labs: T1190, T1059.007, T1213, T1486. Detection rules written: T1110, T1562.001, T1057, T1071.001, T1041. Executed with Atomic Red Team: T1059.001.">
-
-<sub>Techniques I have worked hands-on across my labs and SOC internship. The interactive version, with the story behind each one, is on <a href="https://cyberahmedx.github.io/#attack">my portfolio</a>.</sub>
+<sub>Each card opens its repo. CipherVault runs in your browser: <a href="https://cyberahmedx.github.io/CipherVault/">try the live demo</a>. The full story, with an interactive ATT&amp;CK coverage map, is on <a href="https://cyberahmedx.github.io">my portfolio</a>.</sub>
 
 ## Experience
 
