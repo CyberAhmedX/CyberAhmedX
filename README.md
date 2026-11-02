@@ -17,7 +17,7 @@
 <a href="https://github.com/CyberAhmedX/CipherVault"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-ciphervault-dark.svg"><img src="assets/card-ciphervault-light.svg" width="49%" alt="CipherVault: RSA-3072 + AES-256-GCM encryption and a passphrase-encrypted vault in the browser, tested in Chromium, Firefox and WebKit."></picture></a>
 </p>
 
-<sub>Each card opens its repo. CipherVault and Breakwater also run in your browser: <a href="https://cyberahmedx.github.io/CipherVault/">try CipherVault</a> or <a href="https://cyberahmedx.github.io/dwell-time/">play Breakwater</a>.</sub>
+<sub>Each card opens its repo. CipherVault and Breakwater also run in your browser: <a href="https://cyberahmedx.github.io/CipherVault/">try CipherVault</a> or <a href="https://cyberahmedx.github.io/BREAKWATER/">play Breakwater</a>.</sub>
 
 ### Experience
 
