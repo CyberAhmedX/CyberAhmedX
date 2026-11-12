@@ -11,13 +11,13 @@
 
 <p align="center">
 <a href="https://github.com/CyberAhmedX/Vigil"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-vigil-dark.svg"><img src="assets/card-vigil-light.svg" width="49%" alt="Vigil: a four-stage web app compromise on Wazuh, TheHive and OpenSearch. Every stage detected, escalated and closed with a written verdict."></picture></a>
-<a href="https://github.com/CyberAhmedX/BREAKWATER"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-breakwater-dark.svg"><img src="assets/card-breakwater-light.svg" width="49%" alt="Breakwater: a browser game that teaches real SOC and help desk skills through a branching investigation. Hands-on SIEM, terminal, firewall, timeline and CVSS tools, built in TypeScript with 165 tests and a bot that plays every ending."></picture></a>
+<a href="https://github.com/CyberAhmedX/BREAKWATER"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-breakwater-dark.svg"><img src="assets/card-breakwater-light.svg" width="49%" alt="Breakwater: a free game for Windows, macOS and Linux that teaches real SOC and help desk skills through a branching investigation. Hands-on SIEM, terminal, firewall, timeline and CVSS tools, built in TypeScript with 209 tests and a bot that plays every ending."></picture></a>
 <a href="https://github.com/CyberAhmedX/Sentinel-Forge"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-sentinel-forge-dark.svg"><img src="assets/card-sentinel-forge-light.svg" width="49%" alt="Sentinel-Forge: 30-day cloud SOC lab on Vultr with Sysmon, the ELK Stack, custom Kibana rules, Mythic C2 and an osTicket case on every alert."></picture></a>
 <a href="https://github.com/CyberAhmedX/Network-Security-Scanner-with-Firewall-Rule-Simulator"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-netscan-dark.svg"><img src="assets/card-netscan-light.svg" width="49%" alt="Network Security Scanner: Flask and Nmap. Rules run real iptables or netsh commands, and new open ports become SIEM alerts in Wazuh, tested on Wazuh 4.14.9."></picture></a>
 <a href="https://github.com/CyberAhmedX/CipherVault"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-ciphervault-dark.svg"><img src="assets/card-ciphervault-light.svg" width="49%" alt="CipherVault: RSA-3072 + AES-256-GCM encryption and a passphrase-encrypted vault in the browser, tested in Chromium, Firefox and WebKit."></picture></a>
 </p>
 
-<sub>Each card opens its repo. CipherVault and Breakwater also run in your browser: <a href="https://cyberahmedx.github.io/CipherVault/">try CipherVault</a> or <a href="https://cyberahmedx.github.io/BREAKWATER/">play Breakwater</a>.</sub>
+<sub>Each card opens its repo. CipherVault runs in your browser: <a href="https://cyberahmedx.github.io/CipherVault/">try CipherVault</a>. Breakwater is a free game for Windows, macOS and Linux: <a href="https://github.com/CyberAhmedX/BREAKWATER/releases/latest">download it</a> or <a href="https://cyberahmedx.github.io/BREAKWATER/">play the demo in your browser</a>.</sub>
 
 ### Experience
 
